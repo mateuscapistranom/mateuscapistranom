@@ -1,5 +1,3 @@
-## 👨‍💻 Estudante de Sistemas para Internet e História, músico por paixão. Este é o meu espaço dedicado para compartilhar projetos e estudos. 🚀
-
 <div style="display: inline_block"><br>
   <img align="center" alt="mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="mateus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
