@@ -3,7 +3,7 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=mateuscapistrano&show_icons=true&theme=vue-dark&hide_title=true#gh-dark-mode-only)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscapistranom&size_weight=0.5&count_weight=0.5&hide=Shaderlab,HLSL,CSS,GLSL&layout=compact&theme=vue-dark)
 
-## Technologies I use daily.👨🏻‍💻 🖥 📱 🌐
+## 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
