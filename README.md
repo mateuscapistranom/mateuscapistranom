@@ -1,4 +1,4 @@
-## 👋🏻 Hello there! Welcome to My Profile, the space where I share all my studies and projects! 🧙🏻‍♂️
+## 👋🏻 Hello there! Welcome to My Profile, the space where I share all my studies and projects! 🧙🏻‍♂️ ##
 
 
 
