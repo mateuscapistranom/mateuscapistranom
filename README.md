@@ -1,11 +1,8 @@
 ## 👋🏻 Hello there! Welcome to My Profile, the space where I share all my studies and projects! 🧙🏻‍♂️ ##
 
 ###
-
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mateuscapistranom&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=onedark&hide_border=false" alt="languages graph"  />
-</div>
-
+![github stats](https://github-readme-stats.vercel.app/api?username=mateuscapistranom&show_icons=true&theme=vue-dark&hide_title=true#gh-dark-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscapistranom&size_weight=0.5&count_weight=0.5&hide=Shaderlab,HLSL,CSS,GLSL&layout=compact&theme=vue-dark)
 ###
 
 <div style="display: inline_block"><br>
