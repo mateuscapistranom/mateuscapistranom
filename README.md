@@ -1,5 +1,14 @@
 ## 👋🏻 Hello there! Welcome to My Profile, the space where I share all my studies and projects! 🧙🏻‍♂️ ##
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mateuscapistranom&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mateuscapistranom&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=onedark&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <div style="display: inline_block"><br>
   <!-- Linguagens de Programação -->
   <img align="center" alt="mateus-PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
