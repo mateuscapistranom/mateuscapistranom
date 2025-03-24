@@ -1,10 +1,5 @@
 ## 👋🏻 Hello there! Welcome to My Profile, the space where I share all my studies and projects! 🧙🏻‍♂️ ##
 
-###
-![github stats](https://github-readme-stats.vercel.app/api?username=mateuscapistranom&show_icons=true&theme=vue-dark&hide_title=true#gh-dark-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscapistranom&size_weight=0.5&count_weight=0.5&hide=Shaderlab,HLSL,CSS,GLSL&layout=compact&theme=vue-dark)
-###
-
 <div style="display: inline_block"><br>
   <!-- Linguagens de Programação -->
   <img align="center" alt="mateus-PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
